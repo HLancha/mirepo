@@ -1,0 +1,29 @@
+/* Collection 1 */
+
+    /* Mode 1 */
+    /* color */
+    $colores-azul-verdoso: #55d9bf;
+    $colores-blanco: #ffffff;
+    $colores-gris: #8490a3;
+    $colores-negro: #000000;
+    $colores-negro-oscuro: #232323;
+    /* number */
+    $tamaños-p-lato: 1rem;
+    $tamaños-h4-lato: 1.375rem;
+    $tamaños-h3-lato: 1.625rem;
+    $tamaños-h2-lato: 2.625rem;
+    $tamaños-h1-lato: 4.25rem;
+    /* string */
+    $lato-h1: lato;
+    $lato-h2: lato;
+    $lato-h3: lato;
+    $lato-h4: lato;
+    $lato-p: lato;
+  
+
+
+  $breakpoints: (
+  "small": "max-width: 599px",
+  "medium": "max-width: 1199px",
+  "large": "min-width: 1200px"
+);
