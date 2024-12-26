@@ -9,7 +9,7 @@ export default defineConfig({
             main: resolve(__dirname,"src/index.html")
         },
     },
-    outDir: "../docs", // Los archivos construidos irán a la carpeta "docs"
+    outDir: "../docs", // Los archivos construidos irán a la carpeta "docs" 
   },
   base: "./",
 });
